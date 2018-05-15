@@ -7,13 +7,17 @@ module.exports = [
 	{
 		label: 'Website',
 		url: 'https://mrm8488.github.io/'
-    },
+	},
+	{
+		label: 'LinkedIn profile',
+		url: 'www.linkedin.com/in/manuel-romero-cs'
+	},
     {
-        label: "Search Engine from scrach",
+        label: "Search Engine from scrach (project)",
         url: "https://mrm8488.github.io/#portfolioModal3"
     },
     {
-        label: "Artist's Social Network",
+        label: "Artist's Social Network (project)",
         url: "https://mrm8488.github.io/#portfolioModal1"
     },
     {

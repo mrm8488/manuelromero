@@ -1,6 +1,6 @@
 {
   "name": "manuelromero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to know a bit more about me (Manuel Romero or @mrm8488)",
   "main": "index.js",
   "scripts": {
