@@ -11,7 +11,7 @@ const ui = importJsx('./ui');
 
 meow(`
 	Usage
-	  $ manumyself
+	  $ manuelromero
 `);
 
 const fallback = async () => {
