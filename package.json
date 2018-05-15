@@ -1,7 +1,7 @@
 {
-  "name": "manumyself",
+  "name": "manuelromero",
   "version": "1.0.0",
-  "description": "A cli tool to know a bit more about me (Manuel Romero or @mrm8488)",
+  "description": "A CLI tool to know a bit more about me (Manuel Romero or @mrm8488)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   },
   "author": "Manuel Romero",
   "bin": {
-    "manumyself": "source/cli.js"
+    "manuelromero": "source/cli.js"
   },
   "engines": {
     "node": ">=8"
